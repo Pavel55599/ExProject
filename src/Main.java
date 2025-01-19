@@ -6,5 +6,8 @@ public class Main {
             System.out.println(i);
             System.out.println("мама мыла раму");
         }
+        for (int i =0; i<100; i++) {
+            System.out.println(i);
+        }
     }
 }
